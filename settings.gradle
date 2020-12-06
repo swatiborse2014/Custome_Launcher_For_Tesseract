@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Custome_Launcher_For_Tesseract"

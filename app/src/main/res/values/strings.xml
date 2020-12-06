@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Custome_Launcher_For_Tesseract</string>
+    <string name="search">Search</string>
+    <string name="title_activity_laucher">LaucherActivity</string>
+</resources>
